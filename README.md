@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @visconttig
-- 👀 I’m interested in practicing my Java and Web Development skills.
+- 👀 I’m interested in practicing my Web Development skills.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on something progresively challenging to build confidence :)
 
