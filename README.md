@@ -1,9 +1,40 @@
-- 👋 Hi, I’m @visconttig
-- 👀 I’m interested in practicing my Web Development skills.
-- 💞️ I’m looking to collaborate on something progresively challenging to build confidence :)
+# Intro
 
+## Meet Gerónimo Viscontti
 
-<!---
-visconttig/visconttig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-Stack Web Developer.
+
+> Crafting Seamless Digital Experiences with MERN Stack & TypeScript.
+
+## About me
+
+- Passionate Full-Stack Web Developer.
+- Expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js).
+- Proficient in TypeScript for robust, scalable applications.
+
+## Technical skills
+
+### Core technologies
+
+- **Frontend:** React.js, TypeScript, HTML5, CSS3, Sass.
+- **Backend:** Node.js, Express.js, RESTful APIs, GraphQL.
+- **Database:** MongoDB, Mongoose, Firebase and MySQL.
+- **Dev Tools:** Git, GitHub, Docker, Postman and more...
+- **Others:** Agile.
+
+## Project Highlights
+
+- Check my [pinned](https://github.com/visconttig) projects and see for yourself ;)
+
+## Philosophy
+
+- **Development Approach:**
+  - Focus on clean, maintainable code.
+  - Emphasize user experience and performance optimization.
+  - Foster collaboration and agile methodologies.
+
+## Let’s Connect:
+
+- Open to new opportunities and challenges in tech.
+- Portfolio: [Portfolio](https://preeminent-sherbet-2ec81c.netlify.app/)
+- Linkdedin: [Gerónimo Viscontti](https://www.linkedin.com/in/visconttig/)
