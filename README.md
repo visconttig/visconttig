@@ -1,8 +1,6 @@
-# Intro
-
 ## Meet Gerónimo Viscontti
 
-Full-Stack Web Developer.
+# Full-Stack Web Developer.
 
 > Crafting Seamless Digital Experiences with MERN Stack & TypeScript.
 
