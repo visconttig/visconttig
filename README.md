@@ -14,8 +14,8 @@
 
 ### Core technologies
 
-- **Frontend:** React.js, TypeScript, HTML5, CSS3, Sass.
-- **Backend:** Node.js, Express.js, RESTful APIs, GraphQL.
+- **Frontend:** React.js, TypeScript, HTML5, CSS3, Sass...
+- **Backend:** Node.js, Express.js, RESTful APIs...
 - **Database:** MongoDB, Mongoose, Firebase and MySQL.
 - **Dev Tools:** Git, GitHub, Docker, Postman and more...
 - **Others:** Agile.
